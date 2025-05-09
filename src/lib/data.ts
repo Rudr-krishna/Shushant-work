@@ -20,7 +20,7 @@ export const works: Work[] = [
     type: 'Short Film',
     genre: 'Drama',
     description: 'This short film script is a psychological thriller exploring guilt, perception, and reality themes. The script was designed for indie filmmakers looking for a production-friendly screenplay with a gripping and atmospheric tone. This is a 2-page excerpt, and the full script is available upon request.',
-    image: 'https://github.com/ShushantSharma372/story-script-studio-web/blob/main/public/images/images1.png',
+    image: 'https://raw.githubusercontent.com/Rudr-krishna/Shushant-work/main/public/images/images1.png',
     readMoreLink: '#',
     downloadLink: '#'
   },
