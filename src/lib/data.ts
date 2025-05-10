@@ -36,7 +36,7 @@ export const works: Work[] = [
     id: '3',
     title: 'What Does forever stands for?',
     type: 'Short Story',
-    genre: 'Drama',
+    genre: 'Romance, Drama, Bittersweet',
     description: 'When Vasu learns that his wifes cancer has relapsed and there is nothing more the doctors can do, he refuses to accept defeat. Holding onto hope, he fights against the inevitable, unwilling to let go. But as he sits by her hospital bed, Radha tells him a story—one that intertwines their past, their regrets, and the love they once took for granted.',
     image: 'https://raw.githubusercontent.com/Rudr-krishna/Shushant-work/main/public/images/image3.png',
     readMoreLink: '#'
