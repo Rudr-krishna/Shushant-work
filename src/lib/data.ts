@@ -38,7 +38,7 @@ export const works: Work[] = [
     type: 'Short Story',
     genre: 'Drama',
     description: 'When Vasu learns that his wifes cancer has relapsed and there is nothing more the doctors can do, he refuses to accept defeat. Holding onto hope, he fights against the inevitable, unwilling to let go. But as he sits by her hospital bed, Radha tells him a story—one that intertwines their past, their regrets, and the love they once took for granted.',
-    image: 'https://images.unsplash.com/photo-1493397212122-2b85dda8106b',
+    image: 'https://raw.githubusercontent.com/Rudr-krishna/Shushant-work/main/public/images/image3.png',
     readMoreLink: '#'
   },
   {
@@ -47,7 +47,7 @@ export const works: Work[] = [
     type: 'Short Story',
     genre: 'Sci-fi, Thriller',
     description: 'It is a Sci-fi Short story where Fani illegally summons his future selves for a quick task. He expects a shortcut, not blood on the floor and their sudden disappearance. This is an excerpt. The full story is available upon request.',
-    image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e',
+    image: 'https://raw.githubusercontent.com/Rudr-krishna/Shushant-work/main/public/images/image4.png',
     readMoreLink: '#'
   },
   {
@@ -56,7 +56,7 @@ export const works: Work[] = [
     type: 'Feature Idea',
     genre: 'Revenge Tragedy',
     description: 'Two strangers, living miles apart, lead parallel lives. Both have small and happy families. However, their peaceful lives take a dark turn when similar eerie incidents begin to unfold around them and they began to seem more related than mre strangers.',
-    image: 'https://images.unsplash.com/photo-1486718448742-163732cd1544',
+    image: 'https://raw.githubusercontent.com/Rudr-krishna/Shushant-work/main/public/images/image5.png',
     readMoreLink: '#'
   }
 ];
