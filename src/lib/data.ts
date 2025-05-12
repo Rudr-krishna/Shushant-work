@@ -67,9 +67,9 @@ export const writer = {
   shortBio: 'Crafting stories that blur the line between reality and imagination. Specializing in character-driven narratives across different mediums.',
   about: `I'm a writer with a passion for exploring the human condition through different narrative forms. My work spans short stories, screenplays, and feature film concepts, each designed to immerse readers and viewers in worlds both familiar and strange.
 
-  My writing focuses on character-driven narratives that examine the complexities of human relationships, identity, and the subtle moments that shape our lives. I'm particularly drawn to stories that blend genres and challenge conventional storytelling formats.
+  My writing focuses on character-driven narratives that examine the complexities of human relationships, identity, and the subtle moments that shape our lives.
 
-  When I'm not writing, you'll find me exploring independent cinemas, playing chess, or engaging in conversations about narrative theory and the evolving landscape of storytelling.`,
+  When I'm not writing, you'll find me exploring independent cinemas, playing chess, or engaging in conversations about movies, web series, novels, writers, songs, and music from all over the world. `,
   influences: ['Aurther Conan Doyle', 'Imtiaz Ali', 'C Prem Kumar', 'Agatha Christie', 'Christopher Nolan'],
   focus: ['Character-driven narratives', 'Genre-blending stories', 'Mytholocial Folklores', 'Intimate human moments']
 };
