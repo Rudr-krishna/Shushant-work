@@ -24,7 +24,19 @@ const About = () => {
             <div className="prose prose-lg">
               {writer.about.split("\n\n").map((paragraph, index) => (
                 <p key={index} className="leading-relaxed text-base">
-                  {paragraph}
+                  {paragraph.includes("__EMAIL__") ? (
+                    <>
+                      Contact me at:{" "}
+                      <a
+                        href="mailto:adikrishna.sharma1807@gmail.com"
+                        className="text-blue-600 hover:underline"
+                      >
+                        adikrishna.sharma1807@gmail.com
+                      </a>
+                    </>
+                  ) : (
+                    paragraph
+                  )}
                 </p>
               ))}
             </div>

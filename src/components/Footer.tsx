@@ -1,6 +1,6 @@
 
 import { socialLinks } from "@/lib/data";
-import { Instagram, Linkedin, Youtube } from "lucide-react";
+import { Instagram, Linkedin, Globe } from "lucide-react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -9,10 +9,8 @@ const Footer = () => {
     switch (name) {
       case 'linkedin':
         return <Linkedin size={18} />;
-      case 'instagram':
-        return <Instagram size={18} />;
-      case 'youtube':
-        return <Youtube size={18} />;
+        case "fiverr":
+          return <Globe size={18} />;
       default:
         return null;
     }
@@ -23,7 +21,7 @@ const Footer = () => {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            © {currentYear} Shushant Sharma. All rights reserved.
+            © {currentYear} Shushant Sharma.
           </p>
           
           <div className="flex items-center space-x-4">

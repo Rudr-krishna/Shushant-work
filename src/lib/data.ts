@@ -69,7 +69,7 @@ export const writer = {
 
   My writing focuses on character-driven narratives that examine the complexities of human relationships, identity, and the subtle moments that shape our lives.
 
-  When I'm not writing, you'll find me exploring independent cinemas, playing chess, or engaging in conversations about movies, web series, novels, writers, songs, and music from all over the world. `,
+  When I'm not writing, you'll find me exploring independent cinemas, playing chess, or engaging in conversations about movies, web series, novels, writers, songs, and music from all over the world. Contact me at: __EMAIL__`,
   influences: ['Aurther Conan Doyle', 'Imtiaz Ali', 'C Prem Kumar', 'Agatha Christie', 'Christopher Nolan'],
   focus: ['Character-driven narratives', 'Genre-blending stories', 'Mytholocial Folklores', 'Intimate human moments']
 };
@@ -78,16 +78,11 @@ export const socialLinks = [
   {
     name: 'LinkedIn',
     icon: 'linkedin',
-    url: '#'
+    url: 'https://www.linkedin.com/in/shushant-sharma-4689a923a'
   },
   {
-    name: 'Instagram',
-    icon: 'instagram',
-    url: '#'
-  },
-  {
-    name: 'YouTube',
-    icon: 'youtube',
-    url: '#'
+    name: 'Freelancer',
+    icon: 'fiverr',
+    url: 'https://www.freelancer.in/u/AdiKrishna1807?sb=t'
   }
 ];

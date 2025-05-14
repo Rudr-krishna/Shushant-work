@@ -25,11 +25,11 @@ const Contact = () => {
           Get in touch for collaborations, inquiries, or just to say hello.
         </p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+        {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <div>
             <h2 className="font-serif text-xl font-medium mb-6">Send a Message</h2>
             <ContactForm />
-          </div>
+          </div> */}
           
           <div>
             <h2 className="font-serif text-xl font-medium mb-6">Connect</h2>
@@ -73,7 +73,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-    </div>
+    // </div>
   );
 };
 
